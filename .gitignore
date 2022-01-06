@@ -17,3 +17,7 @@ libs/
 .project
 .vscode/tasks.json
 .vscode/settings.json
+.classpath
+.settings/org.eclipse.buildship.core.prefs
+.settings/org.eclipse.jdt.core.prefs
+bin/
